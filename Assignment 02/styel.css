@@ -1,0 +1,13 @@
+
+.user {
+    padding: 20px;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+
+.user-container {
+    display: flex;
+    justify-content: center;
+}
